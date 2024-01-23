@@ -18,7 +18,7 @@ Also we will be using collaborative repositories to:
 You can make your own profile README.md file from your home dashboard at [GitHub](https://github.com/)
 
 Click on the "Create Profile ReadMe"
-![Screenshot of dashboard showning creation link](../blob/main/2324-TEJ3M-5-1-GithubSetup.png)
+![Screenshot of dashboard showning creation link](../main/2324-TEJ3M-5-1-GithubSetup.png)
 
 You will then be taken to the screen that looks like this to create your profile using markdown formatting.
 ![Screenshot of markdown editor](../blob/main/2324-TEJ3M-5-1-MarkdownEditor.png)
