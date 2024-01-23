@@ -21,7 +21,7 @@ Click on the "Create Profile ReadMe"
 ![Screenshot of dashboard showning creation link](../main/2324-TEJ3M-5-1-GithubSetup.png)
 
 You will then be taken to the screen that looks like this to create your profile using markdown formatting.
-![Screenshot of markdown editor](../blob/main/2324-TEJ3M-5-1-MarkdownEditor.png)
+![Screenshot of markdown editor](../main/2324-TEJ3M-5-1-MarkdownEditor.png)
 
 You can find information about markdown formatting in github [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images).
 
