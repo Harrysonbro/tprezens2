@@ -18,10 +18,10 @@ Also we will be using collaborative repositories to:
 You can make your own profile README.md file from your home dashboard at [GitHub](https://github.com/)
 
 Click on the "Create Profile ReadMe"
-![Screenshot of dashboard showning creation link](..blob/main/2324-TEJ3M-5-1-GithubSetup.png)
+![Screenshot of dashboard showning creation link](../blob/main/2324-TEJ3M-5-1-GithubSetup.png)
 
 You will then be taken to the screen that looks like this to create your profile using markdown formatting.
-![Screenshot of markdown editor](https://github.com/tprezens2/TEJ3M_Prezens/blob/main/2324-TEJ3M-5-1-MarkdownEditor.png)
+![Screenshot of markdown editor](../blob/main/2324-TEJ3M-5-1-MarkdownEditor.png)
 
 You can find information about markdown formatting in github [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images).
 
