@@ -1,6 +1,7 @@
 # Mr. Prezens
 
-Hello all!
+Hi!
+
 Welcome to my [St Andrews College](https://www.sac.on.ca/) profile.
 
 Here you will find our class repositories for:
