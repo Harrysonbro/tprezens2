@@ -1,0 +1,5 @@
+The project I just finished was supposed to be easy. However, as we all know, things don't go the way we want a lot of the times. That's precisely what happened to me.
+My project had four main components, a motor fan, joystick, an ultrasonic, and a servo. The servo did not work at first, but when I checked the code and wiring, multiple times, everything seemed fine.
+So then I switched to a different servo, but it still didn't work. So I spend two more hours checking different ways of wiring the servo, and even updating the servo library on Arduino.
+Still, nothing changed. Finally, I gave up and brought my project back home over the weekend, where I had a backup kit. Inside the kit, there's a servo, so for the last time. I swapped the servo.
+This time, it worked. The project idea was simple, however, sometimes troubleshooting is what takes up the majority of time. I reflect on this, to better prepare myself in debugging other issue in the future.
